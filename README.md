@@ -3,6 +3,10 @@
 An intelligent AI Study Agent built using Python, Streamlit, and Google Gemini API.
 
 The agent understands the user's request, decides what action is needed, uses the appropriate tool, processes the result, and provides a response.
+ 
+ ## 🌐 Live Demo
+
+🔗 [Open AI Study Agent](https://aistudyagent-gqykextub5hsmgj4nkpvon.streamlit.app/)
 
 ## 🚀 Features
 
